@@ -358,11 +358,11 @@ html {
   margin: 0;
 }
 
-.footer__column-content-hours {
+.footer__column_content_hours {
   margin-left: auto;
 }
 
-.footer__column-content-social {
+.footer__column_content_social {
   margin-left: 80px;
 }
 
