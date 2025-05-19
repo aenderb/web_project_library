@@ -354,11 +354,15 @@ html {
   align-items: center;
 }
 
-.footer__column_content_hours {
+.footer__column-logo {
+  margin: 0;
+}
+
+.footer__column-content-hours {
   margin-left: auto;
 }
 
-.footer__column_content_social {
+.footer__column-content-social {
   margin-left: 80px;
 }
 
